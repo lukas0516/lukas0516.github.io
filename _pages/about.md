@@ -25,7 +25,7 @@ Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
 - [Physics-Augmented Data-EnablEd Predictive Control for Eco-driving of Mixed Traffic Considering Diverse Human Behaviors](https://arxiv.org/abs/2306.01387), Dongjun Li, Kaixiang Zhang, Haoxuan Dong, **Qun Wang**, Zhaojian Li, Ziyou Song, **arXiv, 2023**
 
 ## Journal
--[Flexible Eco-cruising Strategy for Connected and Automated Vehicles with Efficient Driving Lane Planning and Speed Optimization](https://ieeexplore-ieee-org/abstract/document/10168174), Haoxuan Dong, **Qun Wang**, Weichao Zhuang, Guodong Yin, Kun Gao, Zhaojian Li, Ziyou Song, **IEEE Transactions on Transportation Electrification, 2023**
+- [Flexible Eco-cruising Strategy for Connected and Automated Vehicles with Efficient Driving Lane Planning and Speed Optimization](https://ieeexplore-ieee-org/abstract/document/10168174), Haoxuan Dong, **Qun Wang**, Weichao Zhuang, Guodong Yin, Kun Gao, Zhaojian Li, Ziyou Song, **IEEE Transactions on Transportation Electrification, 2023**
 
 - [Ecological cruising control of connected electric vehicle: a deep reinforcement learning approach](https://link.springer.com/article/10.1007/s11431-021-1994-7), **Qun Wang**, Fei Ju, Weichao Zhuang, Liangmo Wang, **Science China Technological Sciences. 2022**
 
