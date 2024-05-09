@@ -15,16 +15,28 @@ Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉  Our paper on eco-cruising for connected and automated vehicles has been accepted by IEEE Transactions on Transportation Electrification!. 
+- *2024.04*: &nbsp;🎉🎉  Our paper on ecological car-following control in mixed traffic has been accepted by IEEE Transactions on Transportation Electrification.
+- *2024.02*: &nbsp;🎉🎉  Our paper on multi-lane eco-cruise for battery electric vehicles has been accepted by IEEE Transactions on Transportation Electrification.
+- *2024.02*: &nbsp;🎉🎉  Our paper on Data-EnablEd Predictive control for Eco-driving of mixed traffic has been accepted by IEEE Transactions on Control Systems Technology. 
+- *2023.11*: &nbsp;🎉🎉  Our paper on adaptive leading cruise control for connected and automated vehicles has been accepted by IEEE Transactions on Intelligent Transportation Systems. 
+- *2023.06*: &nbsp;🎉🎉  Our paper on eco-cruising for connected and automated vehicles has been accepted by IEEE Transactions on Transportation Electrification. 
 
 # 📝 Publications
 
 ## Preprints
-- [Adaptive Leading Cruise Control in Mixed Traffic Considering Human Behavioral Diversity](https://arxiv.org/abs/2210.02147), **Qun Wang**, Haoxuan Dong, Fei Ju, Weichao Zhuang, Chen Lv, Liangmo Wang, Ziyou Song, **arXiv, 2022**
+- [Safe Reinforcement Learning-Based Eco-Driving Control for Mixed Traffic Flows With Disturbances](https://arxiv.org/abs/2401.17837), Ke Lu, Dongjun Li, **Qun Wang**, Kaidi Yang, Zhao Lin, Ziyou Song, **arXiv, 2024**
 
-- [Physics-Augmented Data-EnablEd Predictive Control for Eco-driving of Mixed Traffic Considering Diverse Human Behaviors](https://arxiv.org/abs/2306.01387), Dongjun Li, Kaixiang Zhang, Haoxuan Dong, **Qun Wang**, Zhaojian Li, Ziyou Song, **arXiv, 2023**
+
 
 ## Journal
+- [Multi-agent reinforcement learning for ecological car-following control in mixed traffic](https://ieeexplore.ieee.org/abstract/document/10487970), **Qun Wang**, Fei Ju, Huaiyu Wang, Yahui Qian, Meixin Zhu, Weichao Zhuang, Liangmo Wang, **IEEE Transactions on Transportation Electrification, 2024**
+
+- [Multi-lane eco-cruise for battery electric vehicles with terrain and traffic previews](https://ieeexplore.ieee.org/abstract/document/10419366), Fei Ju, **Qun Wang**, Weichao Zhuang, Dawei Pi, Hao Zhang, Liangmo Wang, Weiwei Wang, Xiaomei Xu, **IEEE Transactions on Transportation Electrification, 2024**
+  
+- [Physics-Augmented Data-EnablEd Predictive Control for Eco-driving of Mixed Traffic Considering Diverse Human Behaviors](https://arxiv.org/abs/2306.01387), Dongjun Li, Kaixiang Zhang, Haoxuan Dong, **Qun Wang**, Zhaojian Li, Ziyou Song, **IEEE Transactions on Control Systems Technology, 2024**
+- 
+- [Adaptive Leading Cruise Control in Mixed Traffic Considering Human Behavioral Diversity](https://arxiv.org/abs/2210.02147), **Qun Wang**, Haoxuan Dong, Fei Ju, Weichao Zhuang, Chen Lv, Liangmo Wang, Ziyou Song, **IEEE Transactions on Intelligent Transportation Systems, 2023**
+
 - [Flexible Eco-cruising Strategy for Connected and Automated Vehicles with Efficient Driving Lane Planning and Speed Optimization](https://ieeexplore-ieee-org/abstract/document/10168174), Haoxuan Dong, **Qun Wang**, Weichao Zhuang, Guodong Yin, Kun Gao, Zhaojian Li, Ziyou Song, **IEEE Transactions on Transportation Electrification, 2023**
 
 - [Ecological cruising control of connected electric vehicle: a deep reinforcement learning approach](https://link.springer.com/article/10.1007/s11431-021-1994-7), **Qun Wang**, Fei Ju, Weichao Zhuang, Liangmo Wang, **Science China Technological Sciences. 2022**
@@ -51,8 +63,8 @@ Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
 # 📚 Academic Services
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems
-- IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Vehicular Technology
 - Applied Energy
 
 ## Conference Reviewer
