@@ -10,11 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Mechanical Engineering at Nanjing University of Science and Technology, advised by Prof. Liangmo Wang. I am also a visiting Ph.D. student in the [Energy Storage Lab](https://ziyousongthu.wixsite.com/website), led by [Prof. Ziyou Song](https://scholar.google.com/citations?hl=zh-CN&user=CWEeVz4AAAAJ&view_op=list_works).
-Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
+I am currently a postdoctoral fellow at the [Hong Kong PolyU AIMS Lab](https://sites.google.com/view/hailong-huang/home?authuser=0), working under the guidance of Assistant Professor Hailong Huang. 
+I received my Ph.D. degree from Nanjing University of Science and Technology, advised by Professor Liangmo Wang.
+Previously,  I was a visiting student researcher in the [Energy Storage Lab](https://ziyousongthu.wixsite.com/website) under the supervision of Assistant Professor Ziyou Song.
+
+My research focuses on the energy-saving optimization and safety-guaranteed driving of autonomous electrified vehicles.
+The specific research points include reinforcement learning, human driving behavior modeling, mixed traffic and data-driven energy management of electrified vehicles.
+I have published more than 10 papers in top journals and conferences.
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉  Our paper titled 'Scenario-oriented adaptive ECMS using speed prediction for fuel cell vehicles in real-world driving' has been accepted by Energy.
 - *2024.04*: &nbsp;🎉🎉  Our paper on ecological car-following control in mixed traffic has been accepted by IEEE Transactions on Transportation Electrification.
 - *2024.02*: &nbsp;🎉🎉  Our paper on multi-lane eco-cruise for battery electric vehicles has been accepted by IEEE Transactions on Transportation Electrification.
 - *2024.02*: &nbsp;🎉🎉  Our paper on Data-EnablEd Predictive control for Eco-driving of mixed traffic has been accepted by IEEE Transactions on Control Systems Technology. 
@@ -29,6 +35,8 @@ Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
 
 
 ## Journal
+- [Scenario-oriented adaptive ECMS using speed prediction for fuel cell vehicles in real-world driving]([https://ieeexplore.ieee.org/abstract/document/10487970](https://www.sciencedirect.com/science/article/pii/S0360544224018024)), Sichen Gao, Yuhua Zong, Fei Ju, **Qun Wang**, Weiwei Huo, Liangmo Wang, Tao Wang **Energy, 2024**
+
 - [Multi-agent reinforcement learning for ecological car-following control in mixed traffic](https://ieeexplore.ieee.org/abstract/document/10487970), **Qun Wang**, Fei Ju, Huaiyu Wang, Yahui Qian, Meixin Zhu, Weichao Zhuang, Liangmo Wang, **IEEE Transactions on Transportation Electrification, 2024**
 
 - [Multi-lane eco-cruise for battery electric vehicles with terrain and traffic previews](https://ieeexplore.ieee.org/abstract/document/10419366), Fei Ju, **Qun Wang**, Weichao Zhuang, Dawei Pi, Hao Zhang, Liangmo Wang, Weiwei Wang, Xiaomei Xu, **IEEE Transactions on Transportation Electrification, 2024**
@@ -56,7 +64,7 @@ Feel free to contact me (wangqun@njust.edu.cn) if you are interested in my work.
 
 
 # 📖 Educations
-- *2018.09 - 2023.07 (now)*, Doctor of Philosophy, Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, China
+- *2018.09 - 2024.06*, Doctor of Philosophy, Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, China
 - *2022.02 - 2023.10*, Visiting Ph.D. student, Mechanical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, Bachelor of Engineering, Vehicle Engineering, Nanjing University of Science and Technology, Nanjing, China
 
