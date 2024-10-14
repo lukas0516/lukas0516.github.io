@@ -74,6 +74,7 @@ I have published more than 10 papers in top journals and conferences.
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Vehicular Technology
 - Applied Energy
+- Control Engineering Practice
 
 ## Conference Reviewer
 - IEEE Intelligent Vehicles Symposium (IV)
