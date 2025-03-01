@@ -38,13 +38,14 @@ I have published more than 10 papers in leading journals and conferences, includ
 
 
 ## Journals by Year
-### 2024
+### 2025
 - **[Safe Reinforcement Learning-Based Eco-Driving Control for Mixed Traffic Flows With Disturbances](https://arxiv.org/abs/2401.17837)**
   
   Ke Lu, Dongjun Li, **Qun Wang**, Kaidi Yang, Zhao Lin, Ziyou Song, *IEEE Transactions on Intelligent Transportation Systems, 2025*
   
   *Highlight*: Introduces a safe RL framework for eco-driving, achieving robust performance under disturbances.
 
+### 2024
 - **[Scenario-oriented adaptive ECMS using speed prediction for fuel cell vehicles in real-world driving](https://www.sciencedirect.com/science/article/pii/S0360544224018024)**
   
   Sichen Gao, Yuhua Zong, Fei Ju, **Qun Wang**, Weiwei Huo, Liangmo Wang, Tao Wang *Energy, 2024*
