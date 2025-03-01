@@ -11,12 +11,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a postdoctoral fellow at the [Hong Kong PolyU AIMS Lab](https://sites.google.com/view/hailong-huang/home?authuser=0), working under the guidance of Assistant Professor Hailong Huang. 
-I received my Ph.D. degree from Nanjing University of Science and Technology, advised by Professor Liangmo Wang.
-Previously,  I was a visiting student researcher in the [Energy Storage Lab](https://ziyousongthu.wixsite.com/website) under the supervision of Assistant Professor Ziyou Song.
+I received my Ph.D. degree from Nanjing University of Science and Technology, advised by Professor Liangmo Wang, and was a visiting student researcher in the [Energy Storage Lab](https://ziyousongthu.wixsite.com/website) under the supervision of Assistant Professor Ziyou Song at National University of Singapore.
 
-My research focuses on the energy-saving optimization and safety-guaranteed driving of autonomous electrified vehicles.
-The specific research points include reinforcement learning, human driving behavior modeling, mixed traffic and data-driven energy management of electrified vehicles.
-I have published more than 10 papers in top journals and conferences.
+My research focuses on the energy-saving optimization and safety-guaranteed driving of autonomous electrified vehicles. Key areas include:
+- **Reinforcement Learning for Eco-driving**: Developed a RL-based control strategy for mixed traffic flow, reducing energy consumption by 6.41% (see [IEEE TITS 2023](https://ieeexplore.ieee.org/abstract/document/10359483)).
+- **Human Driving Behavior Modeling**: Calibrated the driving preferences of different human drivers using field-collected dataset into a joint distribution (see [IEEE TITS 2023](https://ieeexplore.ieee.org/abstract/document/10359483)).
+- **Multi-agent Car-following Control**: Proposed a car-following strategy based on multi-agent reinforcement learning (see [IEEE TTE 2024](https://ieeexplore.ieee.org/abstract/document/10487970)).
+
+I have published more than 10 papers in leading journals and conferences, including IEEE Transactions and Energy.
 
 
 # 🔥 News
